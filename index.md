@@ -13,6 +13,7 @@ Hold the Win key and press the R key, then type: <dxdiag> and hit enter.
 If you have a button at the bottom that says "Run 64-bit DxDiag" click that button, if not then skip this bit.  
 Once the green bar at the bottom of the window has loaded click the "Save All Information" and save the .txt file.  
 This .txt file is something you share with the Dev's.  
+Some games/software apps are made to generate their own crash logs which you can also share with the Dev's.  
 
 ***Windows Event Viewer:***
 This type of information can be useful to yourself and Dev's alike!  
