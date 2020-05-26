@@ -5,7 +5,7 @@ There are many issues to trouble shoot on Windows 10, knowing where to look and 
 Even if you can't find a fix, providing information to the Developer of the software or game can help them provide a fix by update.
 
 
-## ***Information gathering:***  
+## ***Information gathering***  
 First we will learn how to gather useful information Developers can use to learn about the issues your having with their software.  
 
 ***DxDiag:***
