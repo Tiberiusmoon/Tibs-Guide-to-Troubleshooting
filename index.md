@@ -9,7 +9,7 @@ Even if you can't find a fix, providing information to the Developer of the soft
 First we will learn how to gather useful information Developers can use to learn about the issues your having with their software.  
 
 ***DxDiag:***
-- Hold the Win key and press the R key, then type: <dxdiag> and hit enter.  
+- Hold the Win key and press the R key, then type: ```dxdiag``` and hit enter.  
 - If you have a button at the bottom that says "Run 64-bit DxDiag" click that button, if not then skip this bit.  
 - Once the green bar at the bottom of the window has loaded click the "Save All Information" and save the .txt file.  
 - This .txt file is something you share with the Dev's.  
