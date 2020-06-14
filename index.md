@@ -85,5 +85,5 @@ Thats about it, to a certain extent reinstalling Windows is the answer but it ta
 o >o/' *waves*  
 
 More useful guides:
-[Antivirus Combat and Repair] (https://tiberiusmoon.github.io/Antivirus-Combat-and-Repair/)  
-[Tibs Guide to Windows 10] (https://tiberiusmoon.github.io/Tibs-Guide-to-Windows-10/)
+[Antivirus Combat and Repair](https://tiberiusmoon.github.io/Antivirus-Combat-and-Repair/)  
+[Tibs Guide to Windows 10](https://tiberiusmoon.github.io/Tibs-Guide-to-Windows-10/)
