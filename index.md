@@ -5,7 +5,7 @@ There are many issues to trouble shoot on Windows 10, knowing where to look and 
 Even if you can't find a fix, providing information to the Developer of the software or game can help them provide a fix by update.
 
 
-## ***Information gathering***  
+## ***1.Information gathering***  
 First we will learn how to gather useful information Developers can use to learn about the issues your having with their software.  
 
 ***DxDiag:***
@@ -28,7 +28,7 @@ Say if you were to turn off the PC from the wall socket without letting the syst
 - Once you double click on a log you can view more details, if you know the exact time the issue with the PC happened you can check the time of the log in the top panel.  
 
 
-## ***Searching for a fix***
+## 2.***Searching for a fix***
 Please make sure you have read the Event Viewer guide or you understand how the Event Viewer Works.  
 
 - When you have a log or a few logs that are showing for your issue open google and type in the Event ID and source like so: >Event ID: 41 Kernel-Power  
@@ -37,7 +37,7 @@ Please make sure you have read the Event Viewer guide or you understand how the 
 - If your having  trouble finding a log you can quote the description text in the general tab to refine your search.  
 
 
-## ***Basic fixes***  
+## 3.***Basic fixes***  
 !! These fixes are for basic issues on face value and may not work, you may have underlying issues. !!
 
 ***Windows Update not working or OS issues:***
