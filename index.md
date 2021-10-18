@@ -50,11 +50,16 @@ Please make sure you have read the Event Viewer guide or you understand how the 
 ***Unusual Display issues:***
 - Download and extract [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) (download link is at the bottom.)  
 - Then download the latest version of your GPU Driver from either [Nvidia](https://www.nvidia.com/Download/index.aspx?lang=en-us) or [AMD/Radeon](https://www.amd.com/en/support)
+- Press the win key and type "advanced system settings" and hit enter, select the Hardware tab then click "Device Installation Settings".
+- Select no and save changes.
+- Open the menu to restart your PC and hold shift while clicking restart, a troubleshoot option will be made avaliable to you.
+- Once clicked go to: Advanced options > Startup settings > restart.
+- Now that you have restarted press F5 to select option 5 in the list. (safe mode with networking)
 - Open the DDU folder and run the DDU .exe.  
 - Select the option's relevant to your GPU and click "Clean and Restart".  
 - Once done install your GPU driver.   
 
->Display/Gaming related GPU issues may occur if you ran older versions of the GPU from a newer version of the driver.  
+>Display/Gaming related GPU issues may occur as certain files accumulate and potentially conflict.  
 
 ***Network issues:***
 - Hold the Win key and hit R, type cmd then hold Ctrl and Shift together and hit enter. (opening command prompt in Admin mode)  
@@ -70,16 +75,7 @@ Please make sure you have read the Event Viewer guide or you understand how the 
 - Now go to where you keep your router then turn it off and unplug it from the wall for 10 minutes, then plug it back int and turn it on.  
 
 >This is known as power cycling your router; If you still have issues you may need to update your router firmware, the router manual will tell you how.  
-
-***Games feel buggy:***
-- First open the programs you very often all at once.  
-- Then right click the windows icon and click Apps and features.  
-- In the list of programs are a list Redistributable or distro's, un-install each one if they ask you to close a program you know the distro is needed and you can cancel the un-install.  
-- Once done you can close the programs and try to run your games.  
-- If a game fails to load, run a repair game or check game file integrity to reinstall distro's the games need.  
->Distributables are files that support the running of a game or software app, if they are corrupted they can cause glitchy behaviour.  
-  
-  
+    
 Thats about it, to a certain extent reinstalling Windows is the answer but it takes too much time.  
 
 o >o/' *waves*  
