@@ -48,6 +48,7 @@ Please make sure you have read the Event Viewer guide or you understand how the 
 > If these scans fail you may have a virus issue, if your current Antivirus does not detect it you can use this: [Malwarebytes antirootkit](https://www.malwarebytes.com/antirootkit/) or use the regular version of [Malwarebytes](https://www.malwarebytes.com/premium/), Once the virus has been removed redo the commands above to repair the damage the virus did to your system.  
 
 ***Unusual Display issues:***
+- In your BIOS settings disable the "Fast boot" option and save. (you can re-enable this after the driver install)
 - Download and extract [DDU](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) (download link is at the bottom.)  
 - Then download the latest version of your GPU Driver from either [Nvidia](https://www.nvidia.com/Download/index.aspx?lang=en-us) or [AMD/Radeon](https://www.amd.com/en/support)
 - Press the win key and type "advanced system settings" and hit enter, select the Hardware tab then click "Device Installation Settings".
